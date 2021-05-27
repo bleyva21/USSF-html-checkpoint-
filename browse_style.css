@@ -1,0 +1,37 @@
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+nav a{
+    padding: 10px 0px 10px 0px;
+    margin: 1%;
+}
+nav h2{
+    margin: 1%;
+}
+
+nav div{
+    display: flex;
+    flex-direction: row;
+    justify-self: flex-end;
+    margin-left: 62%;
+    justify-content: space-between;
+}
+.search button{
+    color:yellow;
+    border: yellow;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+img{
+    display: flex;
+    height: 100% ;
+    width: 100%;
+}
