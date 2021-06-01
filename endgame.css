@@ -1,4 +1,13 @@
 .results-wrapper{
+    display: flex;
     background-color: grey;
     color: yellow;
+    border-radius: 15px;
+    height: 50px;
+    align-items: center;
+}
+
+.results-wrapper a{
+    display: flex;
+    margin-left: 2%;
 }
